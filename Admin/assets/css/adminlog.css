@@ -1,0 +1,11 @@
+body{
+    padding-top: 20%;
+    background-image: url(img/th.jpeg);
+    background-size: cover;
+    background: rgb(0,0,0,0.1);
+}
+.btn{
+/*    background-image: linear-gradient(to right, #e50000, #eb003c, #e00068, #c50091, #971cb2, #8329b2, #6f31b1, #5936af, #6d2899, #771a83, #7b0b6e, #7b005b);*/
+    background-image: linear-gradient(to right, #e50000, #eb003c, #e00068, #c50091, #971cb2, #9522b5, #9328b8, #912dbb, #c100a3, #e30085, #f70063, #ff0040);
+    color: #fff;
+}

@@ -1,0 +1,137 @@
+body{
+/*    background-image: linear-gradient(to left, #ffffff, #e0edff, #a8e1fd, #5ed6e6, #03c9b7);*/
+        background-image: linear-gradient(to left, #fa6f75, #ff8499, #ff9ab9, #ffb1d4, #fcc8e9, #fbd2f0, #fbdbf7, #fbe4fc, #fbe4fc, #fce3fd, #fce3fd, #fde2fd);
+}
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<navigation panel start here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+.navbar-nav li{
+    padding: 8px;
+}
+.nav-link{
+    font-size: 1.1em !important;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.nav-item:hover{
+    background: #e91e63;
+}
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<navigation panel end here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+.book{
+    padding: 30px auto;
+    margin: 20px auto;
+}
+.movie-detail{
+    background-image:  linear-gradient(to left bottom, #de5c8b, #c7599c, #aa5ba8, #865eb0, #5a60b1);
+    border: 1px solid  #d5d5d5;
+    padding: 20px;
+    color: #fff;
+    border-radius: 10px;
+}
+h4{
+    text-align: center;
+}
+.instruc span ul li{
+   list-style-type:square;
+}
+.bok-form{
+    display: block;
+    padding: 50px;
+    background: #fff;
+
+}
+.descrip h5{
+    text-align: center;
+}
+.booking-inner{
+/*    border: 2px solid #d5d5d5;*/
+    border-radius: 3px;
+    padding: 10px;
+/*    padding-top:5%;*/
+}
+.fm{
+    background: #fff;
+}
+h4{
+    color:darkred;
+}
+button a{
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    color: #fff;
+}
+button a:hover{
+    border-bottom: 3px solid #d5d5d5;
+    transition: 0.5s;
+    color: #00aced;
+}
+.social{
+    background-color: #fff;
+    margin-top: 10px;
+/*    width: 100%;*/
+}
+.social a{
+    font-size: 4.5em;
+    padding: 3rem;
+}
+.fa-facebook{
+    color: #3b5998;
+}
+.fa-twitter{
+    color: #00aced;
+}
+.fa-google-plus-g{
+    color: #dd4b39;
+}
+.fa-instagram{
+    color: #517fa4;
+}
+.fa-youtube{
+    color: #bb0000;
+}
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top: 2rem;
+}
+hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+footer a{
+    color: #d5d5d5;
+}
+hr.light-100{
+    border-top: 1px solid #d5d5d5;
+    width: 100%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+@media (max-width:992px){
+    .social a{
+        font-size: 4em;
+        padding: 2rem;
+    }
+    .carousel-inner img{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media (max-width:768px){
+    .social a{
+        font-size: 2.5em;
+        padding: 1.5rem;
+    }
+}
+@media (max-width:567px){
+    .social a{
+        font-size: 2.5em;
+        padding: .7rem;
+    }
+}

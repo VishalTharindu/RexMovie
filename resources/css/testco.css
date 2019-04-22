@@ -1,0 +1,44 @@
+/*products css*/
+#content {
+	padding-left: 30px;
+}
+
+#content .product{
+/*	background: #ffffff;*/
+/*    background-image: url(img/3.jpg);*/
+	border: solid 1px #cccccc;
+	box-sizing: border-box;
+    background-size: cover;
+	margin-bottom: 25px;
+}
+
+#content .product .text{
+	padding: 10px 10px 0px;
+}
+#content .product .text p.price{
+	font-size: 16px;
+	text-align: center;
+	font-weight: 300;
+}
+
+#content .product .text .buttons{
+	clear: both;
+	text-align: center;
+}
+
+#content .product .text h4{
+	text-align: center;
+	font-size: 18px;
+}
+
+#content .product .text h4 a{
+	color: #464646;
+}
+
+#content .product .text .buttons .btn{
+	margin-bottom: 10px;
+}
+
+.single{
+	width: 300px;
+}

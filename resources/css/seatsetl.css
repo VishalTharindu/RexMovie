@@ -1,0 +1,35 @@
+body{
+}
+h1{
+    background-color: blue;
+}
+.seat{
+    padding-top: 20px;
+}
+.box{
+   padding-top: 20px;
+    margin-left: 120px; 
+}
+.screen{
+    margin-bottom: 40px;
+    margin-top: 30px;
+    
+}
+.container{
+/*    background-image: linear-gradient(to left bottom, #ffffff, #eaf9ff, #b5fbff, #67ffff, #00ffea);*/
+    padding-bottom: 30px;
+}
+.action{
+    padding-top: 50px;
+    margin-left: 40%;
+}
+.btnst:active{
+    color: green;
+/*    margin-left: 2px;*/
+}
+.check:hover{
+    background-color:green;
+}
+@media(max-width:72px){
+    
+}

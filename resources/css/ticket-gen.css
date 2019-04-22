@@ -1,0 +1,13 @@
+.cons{
+    padding-top: 20%;
+}
+button{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: brown;
+/*    text-decoration: none;*/
+}

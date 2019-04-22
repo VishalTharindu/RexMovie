@@ -1,0 +1,29 @@
+.container{
+    background-image: linear-gradient(to left bottom, #ffffff, #eaf9ff, #b5fbff, #67ffff, #00ffea);
+    margin-top: 10%;
+    padding: 5% 10% 0% 20%;
+}
+.span2{
+    width: 100%;
+    padding: 1em;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    font-size: 20px;
+    border-bottom: 2px solid  #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+}
+.dtinput{
+    display: inline-block;
+}
+.fld{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+input[type='text']{
+    border: none;
+}
+
